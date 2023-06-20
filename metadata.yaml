@@ -1,0 +1,28 @@
+_repo: L-antica-madre_70932
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Beltramelli, Antonio
+    birthdate: 1874
+    deathdate: 1930
+    gutenberg_agent_id: '45566'
+    url: http://www.gutenberg.org/2009/agents/45566
+    wikipedia: https://it.wikipedia.org/wiki/Antonio_Beltramelli
+description: ''
+gutenberg_issued: '2023-06-07'
+identifiers:
+  gutenberg: '70932'
+language: it
+pgterms:marc905: 20211102093017beltramell
+pgterms:marc906: '1900'
+pgterms:marc907: IT
+production_note: Barbara Magni and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images made available by the HathiTrust Digital Library)
+publication_note: '  $aItaly :$bCappelli, $c1900.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: L'antica madre
+url: http://www.gutenberg.org/ebooks/70932
